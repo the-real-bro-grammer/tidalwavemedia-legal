@@ -12,21 +12,30 @@ information the game handles.
 ## The short version
 
 We do not collect, transmit, or store any personal information about you. Your game progress
-stays on your device. The only outside services the game contacts are the advertising network that
-delivers the optional rewarded videos you choose to watch, and your app store when you choose to buy
-a coin pack.
+stays on your device. The only outside services the game contacts are Unity's game services (an
+anonymous, random player ID, described below), the advertising network that delivers the optional
+rewarded videos you choose to watch, and your app store when you choose to buy a coin pack.
 
 ## Information we do not collect
 
 We do not collect, store on our servers, or share: your name, contact information, location,
-photos, contacts, or usage analytics. The game requires no account, no sign-in, and no personal
-details of any kind.
+photos, contacts, or usage analytics. The game requires no account and no personal details of any
+kind; you are never asked to sign in.
 
 ## Information stored on your device only
 
 Your game progress — levels cleared, stars, coins, items, gear, settings — is saved locally on
 your device. It never leaves your device, and uninstalling the game deletes it. We cannot access,
 restore, or transfer it, so please note that reinstalling starts a fresh game.
+
+## Anonymous game-services ID
+
+When the game starts, it connects to **Unity Gaming Services** (a service of Unity Technologies)
+and receives an anonymous, randomly generated player ID. This happens automatically and silently:
+there is no account, no sign-in screen, and the ID is not linked to your name, email, or Google
+account. It exists so that optional online features (such as leaderboards) can work in future
+updates. Unity may process basic technical information to provide this, such as the device's IP
+address, under the Unity Privacy Policy linked below. Uninstalling the game discards the ID.
 
 ## Optional rewarded advertising
 
