@@ -101,6 +101,38 @@ Purchases are processed under your app store's own terms and privacy policy:
 Refunds are requested through your app store. You can block or require approval for purchases using
 your app store's parental controls or purchase-authentication settings.
 
+## If you are in the EU, the EEA or the UK
+
+**Who is responsible.** The data controller is Tidal Wave Media, Pl. de la República del Ecuador, 2,
+Chamartín, 28016 Madrid, Spain. Contact: the email address at the end of this policy.
+
+**What is processed, and why.**
+
+| Data | Purpose | Legal basis |
+|---|---|---|
+| Anonymous player ID | Running the leaderboard and the remote settings | Our legitimate interest in providing the game's online features |
+| Leaderboard total and generated nickname | Showing the leaderboard | Legitimate interest |
+| Anonymous play data (only if you choose "Sure") | Understanding where the game is too hard, too easy or confusing | Your consent, which you can withdraw at any time in Settings |
+| Technical data used by the ad network to deliver a rewarded video you chose to watch | Delivering the video, limiting how often it shows, preventing fraud | Legitimate interest. The game tells the ad network that you have **not** consented to personalised advertising, so the videos are not targeted using your behaviour |
+| Purchase confirmation and order number, kept on your device | Making sure a purchase is credited once | Performance of the purchase |
+
+**Who receives it.** Unity Technologies, which runs the game services, analytics and advertising for
+us, and your app store for purchases. Unity may process data outside the EU, including in the United
+States, under the safeguards described in its privacy policy (such as standard contractual clauses).
+We do not sell your data.
+
+**How long it is kept.** Play data and leaderboard entries are kept while the game is operated, or
+until you ask for them to be deleted. Data on your device is removed when you uninstall the game.
+
+**Your rights.** You can ask to access, correct or delete your data, to restrict or object to its
+processing, and to receive a copy of it. In the game, **Settings → Delete my play data** erases the
+play data collected about you and stops further collection. You can withdraw your consent to play
+data at any time with the switch in Settings. For anything else, email us. Because the game holds
+no name or email for you, we may need your anonymous player ID to find your data.
+
+**Complaints.** You may complain to your local data protection authority. In Spain that is the
+Agencia Española de Protección de Datos (<https://www.aepd.es>).
+
 ## Children
 
 Money Miner is intended for players aged 13 and over and is not directed at children under 13.
