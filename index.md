@@ -4,23 +4,24 @@ title: Money Miner — Privacy Policy
 
 # Money Miner — Privacy Policy
 
-*Effective date: 6 November 2026*
+*Effective date: 10 November 2026*
 
 Money Miner is developed by Tidal Wave Media ("we", "us"). This policy explains what
 information the game handles.
 
 ## The short version
 
-We do not collect, transmit, or store any personal information about you. Your game progress
-stays on your device. The only outside services the game contacts are Unity's game services (an
-anonymous, random player ID, described below), the advertising network that delivers the optional
-rewarded videos you choose to watch, and your app store when you choose to buy a coin pack.
+We do not collect your name, email, contacts, or anything else that says who you are. Your game
+progress stays on your device. The outside services the game contacts are Unity's game services
+(an anonymous, random player ID, the leaderboard, and, only if you say yes, anonymous play data,
+all described below), the advertising network that delivers the optional rewarded videos you
+choose to watch, and your app store when you choose to buy a coin pack.
 
 ## Information we do not collect
 
-We do not collect, store on our servers, or share: your name, contact information, location,
-photos, contacts, or usage analytics. The game requires no account and no personal details of any
-kind; you are never asked to sign in.
+We do not collect, store on our servers, or share: your name, contact information, precise
+location, photos, or contacts. The game requires no account and no personal details of any kind;
+you are never asked to sign in.
 
 ## Information stored on your device only
 
@@ -33,9 +34,35 @@ restore, or transfer it, so please note that reinstalling starts a fresh game.
 When the game starts, it connects to **Unity Gaming Services** (a service of Unity Technologies)
 and receives an anonymous, randomly generated player ID. This happens automatically and silently:
 there is no account, no sign-in screen, and the ID is not linked to your name, email, or Google
-account. It exists so that optional online features (such as leaderboards) can work in future
-updates. Unity may process basic technical information to provide this, such as the device's IP
+account. It exists so that online features such as the leaderboard can work. Unity may process basic technical information to provide this, such as the device's IP
 address, under the Unity Privacy Policy linked below. Uninstalling the game discards the ID.
+
+## Optional anonymous play data (off unless you say yes)
+
+After your first level the game asks once whether it may collect **anonymous play data**. If you
+choose "No thanks", nothing is collected. If you choose "Sure", the game sends gameplay events to
+**Unity Analytics** (a service of Unity Technologies) so we can see where the game is too hard,
+too easy, or confusing. The events are things like: which level was started, whether it was won or
+lost and why, stars and coins earned in that level, which items were used, whether the daily wheel
+was spun, whether the shop was opened, and whether a rewarded video was watched to the end.
+
+These events are tied only to the anonymous player ID above. They contain no name, email, contact,
+or anything you typed. Unity also records basic technical information with them, such as device
+model, operating system version, and country. You can switch this on or off at any time in the
+game's **Settings** ("Share anonymous play data"). Switching it off stops collection immediately.
+To ask for data already collected to be deleted, email us at the address below.
+
+## Leaderboard
+
+The game has a leaderboard of the most coins banked. When you finish a level, your running total
+is sent to **Unity Leaderboards** and shown to other players next to a random nickname that Unity
+generates for your anonymous player ID. The nickname is not your name and is not linked to your
+Google or Apple account. You never type anything into the leaderboard.
+
+## Remote settings
+
+When it starts, the game asks Unity for a small list of on/off settings (for example, whether the
+daily wheel is available). This sends nothing about you beyond the anonymous player ID.
 
 ## Optional rewarded advertising
 
@@ -77,8 +104,8 @@ your app store's parental controls or purchase-authentication settings.
 ## Children
 
 Money Miner is intended for players aged 13 and over and is not directed at children under 13.
-We collect no data from anyone, including children. Advertising is limited to the rewarded videos
-described above.
+We do not knowingly collect personal information from children. Advertising is limited to the
+rewarded videos described above.
 
 ## Permissions
 
