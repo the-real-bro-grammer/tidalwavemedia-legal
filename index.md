@@ -103,8 +103,8 @@ your app store's parental controls or purchase-authentication settings.
 
 ## If you are in the EU, the EEA or the UK
 
-**Who is responsible.** The data controller is Tidal Wave Media, Pl. de la República del Ecuador, 2,
-Chamartín, 28016 Madrid, Spain. Contact: the email address at the end of this policy.
+**Who is responsible.** The data controller is Robert Watson, trading as Tidal Wave Media,
+Calle de Raimundo Fernández Villaverde, 37, 6.º A, Madrid, Spain. Contact: the email address at the end of this policy.
 
 **What is processed, and why.**
 
