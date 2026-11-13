@@ -5,7 +5,7 @@ permalink: /fr/
 
 # Money Miner — Politique de confidentialité
 
-*Date d'entrée en vigueur : 10 novembre 2026*
+*Date d'entrée en vigueur : 13 novembre 2026*
 
 *Cette traduction est fournie pour votre commodité. En cas de divergence, la [version anglaise](/tidalwavemedia-legal/) prévaut.*
 
@@ -55,7 +55,10 @@ jeu anonymes**. Si vous choisissez « Non merci », rien n'est collecté. Si vou
 Technologies) afin que nous puissions voir où le jeu est trop difficile, trop facile ou déroutant.
 Ces événements sont par exemple : quel niveau a été lancé, s'il a été gagné ou perdu et pourquoi,
 les étoiles et les pièces gagnées dans ce niveau, quels objets ont été utilisés, si la roue du jour
-a été tournée, si la boutique a été ouverte et si une vidéo récompensée a été regardée jusqu'au bout.
+a été tournée, ce qui a été acheté avec des pièces dans la boutique, si une vidéo récompensée a été
+regardée jusqu'au bout, si une notification de rappel vous a fait revenir et, sur Android, depuis quelle
+campagne publicitaire ou quel lien le jeu a été installé (tel que l'indique Google Play, par exemple
+« website » ou « christmas_ad » ; cela ne vous identifie pas).
 
 Ces événements sont rattachés uniquement à l'identifiant de joueur anonyme mentionné ci-dessus. Ils
 ne contiennent ni nom, ni adresse e-mail, ni contact, ni quoi que ce soit que vous ayez saisi. Unity
@@ -64,6 +67,26 @@ l'appareil, la version du système d'exploitation et le pays. Vous pouvez active
 option à tout moment dans les **Réglages** du jeu (« Partager des données anonymes »). La
 désactivation met immédiatement fin à la collecte. Pour demander la suppression des données déjà
 collectées, écrivez-nous à l'adresse e-mail indiquée ci-dessous.
+
+## Rapports de plantage et signalements de problèmes
+
+Si le jeu plante ou rencontre une erreur, un rapport technique (ce qui a échoué, le modèle de l'appareil, la
+version du système d'exploitation, la version du jeu, ainsi que le niveau et l'écran où vous vous trouviez) est
+envoyé à **Unity Diagnostics** afin que nous puissions corriger le problème. Il ne contient ni nom, ni adresse
+e-mail, ni quoi que ce soit que vous ayez saisi.
+
+Les Réglages comportent un bouton **Signaler un problème**. Uniquement si vous l'utilisez, le jeu envoie à
+**Unity User Reporting** une capture d'écran du jeu, le type de problème que vous avez choisi, ce que vous
+décidez de saisir et les mêmes informations techniques. Merci de ne pas y saisir d'informations personnelles.
+
+## Notifications
+
+Le jeu peut vous prévenir sur votre appareil lorsque vos vies sont pleines ou que votre cadeau du jour est
+prêt ; vous pouvez désactiver ces rappels dans les réglages de votre téléphone. Si vous autorisez les
+notifications, le jeu peut aussi s'enregistrer auprès du service de notifications push de Unity (qui utilise
+Google Firebase sur Android et le service push d'Apple sur iOS) afin que nous puissions vous informer, par
+exemple, qu'une nouvelle version est disponible. Cela utilise un jeton push de l'appareil, et non votre nom ni
+votre compte.
 
 ## Classement
 
@@ -139,6 +162,9 @@ Calle de Raimundo Fernández Villaverde, 37, 6.º A, 28003 Madrid, Espagne. Cont
 | Données de jeu anonymes (uniquement si vous choisissez « D'accord ») | Comprendre où le jeu est trop difficile, trop facile ou déroutant | Votre consentement, que vous pouvez retirer à tout moment dans les Réglages |
 | Données techniques utilisées par le réseau publicitaire pour diffuser une vidéo récompensée que vous avez choisi de regarder | Diffuser la vidéo, limiter sa fréquence d'affichage, prévenir la fraude | Intérêt légitime. Le jeu indique au réseau publicitaire que vous n'avez **pas** consenti à la publicité personnalisée ; les vidéos ne sont donc pas ciblées en fonction de votre comportement |
 | Confirmation d'achat et numéro de commande, conservés sur votre appareil | S'assurer qu'un achat n'est crédité qu'une seule fois | Exécution de l'achat |
+| Rapports de plantage | Trouver et corriger les plantages | Intérêt légitime à proposer un jeu qui fonctionne |
+| Signalements de problèmes que vous choisissez d'envoyer | Examiner le problème signalé | Votre demande |
+| Jeton push (uniquement si vous autorisez les notifications) | Envoyer des nouvelles du jeu, comme une nouvelle version | Votre consentement, donné lorsque vous autorisez les notifications |
 
 **Qui les reçoit.** Unity Technologies, qui exploite pour nous les services de jeu, l'analyse et la
 publicité, et votre boutique d'applications pour les achats. Unity peut traiter des données en

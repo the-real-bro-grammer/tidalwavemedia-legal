@@ -4,7 +4,7 @@ title: Money Miner — Privacy Policy
 
 # Money Miner — Privacy Policy
 
-*Effective date: 10 November 2026*
+*Effective date: 13 November 2026*
 
 Money Miner is developed by Tidal Wave Media ("we", "us"). This policy explains what
 information the game handles.
@@ -44,13 +44,34 @@ choose "No thanks", nothing is collected. If you choose "Sure", the game sends g
 **Unity Analytics** (a service of Unity Technologies) so we can see where the game is too hard,
 too easy, or confusing. The events are things like: which level was started, whether it was won or
 lost and why, stars and coins earned in that level, which items were used, whether the daily wheel
-was spun, whether the shop was opened, and whether a rewarded video was watched to the end.
+was spun, what was bought in the shop with coins, whether a rewarded video was watched to the end,
+whether a reminder notification brought you back, and, on Android, which advertising campaign or
+link the game was installed from (as reported by Google Play, for example "website" or
+"christmas_ad"; it does not identify you).
 
 These events are tied only to the anonymous player ID above. They contain no name, email, contact,
 or anything you typed. Unity also records basic technical information with them, such as device
 model, operating system version, and country. You can switch this on or off at any time in the
 game's **Settings** ("Share anonymous play data"). Switching it off stops collection immediately.
 To ask for data already collected to be deleted, email us at the address below.
+
+## Crash reports and problem reports
+
+If the game crashes or hits an error, a technical report (what failed, the device model, operating
+system version, game version, and which level and screen you were on) is sent to **Unity
+Diagnostics** so we can fix it. It contains no name, email, or anything you typed.
+
+Settings has a **Report a problem** button. Only if you use it, the game sends **Unity User
+Reporting** a screenshot of the game, the kind of problem you picked, anything you choose to type,
+and the same technical details. Please do not type personal information into it.
+
+## Notifications
+
+The game can remind you on your device when your lives are full or your daily gift is ready; you
+can turn these off in your phone's settings. If you allow notifications, the game may also register
+with Unity's push notification service (using Google Firebase on Android and Apple's push service on
+iOS) so we can tell you, for example, that a new version is out. This uses a device push token, not
+your name or account.
 
 ## Leaderboard
 
@@ -115,6 +136,9 @@ Calle de Raimundo Fernández Villaverde, 37, 6.º A, 28003 Madrid, Spain. Contac
 | Anonymous play data (only if you choose "Sure") | Understanding where the game is too hard, too easy or confusing | Your consent, which you can withdraw at any time in Settings |
 | Technical data used by the ad network to deliver a rewarded video you chose to watch | Delivering the video, limiting how often it shows, preventing fraud | Legitimate interest. The game tells the ad network that you have **not** consented to personalised advertising, so the videos are not targeted using your behaviour |
 | Purchase confirmation and order number, kept on your device | Making sure a purchase is credited once | Performance of the purchase |
+| Crash reports | Finding and fixing crashes | Legitimate interest in a working game |
+| Problem reports you choose to send | Investigating the problem you reported | Your request |
+| Push token (only if you allow notifications) | Sending game news such as a new version | Your consent, given when you allow notifications |
 
 **Who receives it.** Unity Technologies, which runs the game services, analytics and advertising for
 us, and your app store for purchases. Unity may process data outside the EU, including in the United

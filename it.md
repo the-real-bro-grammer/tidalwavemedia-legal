@@ -5,7 +5,7 @@ permalink: /it/
 
 # Money Miner — Informativa sulla privacy
 
-*Data di entrata in vigore: 10 novembre 2026*
+*Data di entrata in vigore: 13 novembre 2026*
 
 *Questa è una traduzione fornita per comodità. In caso di differenze, prevale la [versione inglese](/tidalwavemedia-legal/).*
 
@@ -51,8 +51,11 @@ anonimi**. Se scegli "No grazie", non viene raccolto nulla. Se scegli "Certo", i
 eventi di gioco a **Unity Analytics** (un servizio di Unity Technologies) per permetterci di capire
 dove il gioco è troppo difficile, troppo facile o poco chiaro. Gli eventi sono, ad esempio: quale
 livello è stato avviato, se è stato vinto o perso e perché, le stelle e le monete guadagnate in
-quel livello, quali oggetti sono stati usati, se è stata girata la ruota del giorno, se è stato
-aperto il negozio e se un video con ricompensa è stato guardato fino alla fine.
+quel livello, quali oggetti sono stati usati, se è stata girata la ruota del giorno, che cosa è stato
+acquistato con le monete nel negozio, se un video con ricompensa è stato guardato fino alla fine, se una
+notifica di promemoria ti ha fatto tornare e, su Android, da quale campagna pubblicitaria o link è stato
+installato il gioco (come riportato da Google Play, ad esempio "website" o "christmas_ad"; non ti
+identifica).
 
 Questi eventi sono associati soltanto all'ID giocatore anonimo descritto sopra. Non contengono
 nome, email, contatti né nulla che tu abbia digitato. Insieme a essi Unity registra anche
@@ -61,6 +64,25 @@ il paese. Puoi attivare o disattivare questa opzione in qualsiasi momento nelle 
 del gioco ("Condividi dati di gioco anonimi"). Disattivandola, la raccolta si interrompe
 immediatamente. Per chiedere la cancellazione dei dati già raccolti, scrivici all'indirizzo email
 indicato più sotto.
+
+## Segnalazioni di arresti anomali e di problemi
+
+Se il gioco si arresta in modo anomalo o incontra un errore, un rapporto tecnico (che cosa non ha funzionato, il
+modello del dispositivo, la versione del sistema operativo, la versione del gioco e in quale livello e schermata
+ti trovavi) viene inviato a **Unity Diagnostics** per permetterci di risolverlo. Non contiene nome, email né
+nulla che tu abbia digitato.
+
+Nelle Impostazioni c'è un pulsante **Segnala un problema**. Solo se lo usi, il gioco invia a **Unity User
+Reporting** uno screenshot del gioco, il tipo di problema che hai scelto, ciò che decidi di scrivere e le stesse
+informazioni tecniche. Ti chiediamo di non inserirvi informazioni personali.
+
+## Notifiche
+
+Il gioco può avvisarti sul dispositivo quando le tue vite sono piene o il regalo del giorno è pronto; puoi
+disattivare questi avvisi nelle impostazioni del telefono. Se consenti le notifiche, il gioco può anche
+registrarsi al servizio di notifiche push di Unity (che usa Google Firebase su Android e il servizio push di
+Apple su iOS) per permetterci di comunicarti, ad esempio, che è uscita una nuova versione. Per farlo usa un
+token push del dispositivo, non il tuo nome né il tuo account.
 
 ## Classifica
 
@@ -131,6 +153,9 @@ commerciale Tidal Wave Media, Calle de Raimundo Fernández Villaverde, 37, 6.º 
 | Dati di gioco anonimi (solo se scegli "Certo") | Capire dove il gioco è troppo difficile, troppo facile o poco chiaro | Il tuo consenso, che puoi revocare in qualsiasi momento nelle Impostazioni |
 | Dati tecnici usati dalla rete pubblicitaria per fornire un video con ricompensa che hai scelto di guardare | Fornire il video, limitarne la frequenza di visualizzazione, prevenire le frodi | Legittimo interesse. Il gioco comunica alla rete pubblicitaria che **non** hai prestato il consenso alla pubblicità personalizzata, quindi i video non sono mirati in base al tuo comportamento |
 | Conferma di acquisto e numero d'ordine, conservati sul tuo dispositivo | Garantire che un acquisto sia accreditato una sola volta | Esecuzione dell'acquisto |
+| Segnalazioni di arresti anomali | Individuare e correggere gli arresti anomali | Legittimo interesse a offrire un gioco funzionante |
+| Segnalazioni di problemi che scegli di inviare | Esaminare il problema segnalato | La tua richiesta |
+| Token push (solo se consenti le notifiche) | Inviare novità sul gioco, come una nuova versione | Il tuo consenso, prestato quando consenti le notifiche |
 
 **Chi riceve i dati.** Unity Technologies, che gestisce per noi i servizi di gioco, le statistiche
 e la pubblicità, e il tuo app store per gli acquisti. Unity può trattare i dati al di fuori
